@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealDB", "CerealDB\CerealDB.csproj", "{5F2FECDB-DEDD-4588-B927-7C607F11A704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2FECDB-DEDD-4588-B927-7C607F11A704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2FECDB-DEDD-4588-B927-7C607F11A704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2FECDB-DEDD-4588-B927-7C607F11A704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2FECDB-DEDD-4588-B927-7C607F11A704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23BE6E8E-64F4-45A3-B148-FBA05D4DA990}
+	EndGlobalSection
+EndGlobal
